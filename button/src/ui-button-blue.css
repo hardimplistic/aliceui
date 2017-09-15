@@ -1,0 +1,57 @@
+.ui-button-lblue,
+.ui-button-mblue,
+.ui-button-sblue {
+    color:#fff;
+    border: 1px solid #00aaee;
+    background-color: #00aaee;
+}
+
+.ui-button-lblue:hover,
+.ui-button-mblue:hover,
+.ui-button-sblue:hover {
+    background-color: #00a3d2;
+}
+
+a.ui-button-lblue,
+a.ui-button-mblue,
+a.ui-button-sblue,
+a.ui-button-lblue:visited,
+a.ui-button-mblue:visited,
+a.ui-button-sblue:visited,
+a.ui-button-lblue:hover,
+a.ui-button-mblue:hover,
+a.ui-button-sblue:hover,
+a.ui-button-lblue:active,
+a.ui-button-mblue:active,
+a.ui-button-sblue:active {
+    color:#fff;
+}
+
+.ui-button-lblue {
+    height:32px;
+}
+
+.ui-button-mblue {
+    height:28px;
+}
+
+.ui-button-sblue {
+    padding: 0 12px;
+    height:24px;
+    font-size:12px;
+}
+
+a.ui-button-lblue {
+    line-height:30px;
+    height:30px;
+}
+
+a.ui-button-mblue {
+    line-height:26px;
+    height:26px;
+}
+
+a.ui-button-sblue {
+    line-height:22px;
+    height:22px;
+}

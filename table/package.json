@@ -1,0 +1,21 @@
+{
+    "name": "alice-table",
+    "version": "1.2.0",
+    "description": "通用表格组件。",
+    "keywords": [
+        "表格"
+    ],
+    "homepage": "",
+    "author": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aliceui/table"
+    },
+    "bugs": {
+        "url": "https://github.com/aliceui/table/issues"
+    },
+    "license": "MIT",
+    "spm": {
+        "main": "index.css"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "version": "1.0.0",
+    "family": "alice",
+    "description": "test for alice",
+    "homepage": "",
+    "author": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aliceui/example"
+    },
+    "bugs": {
+        "url": "https://github.com/aliceui/example/issues"
+    },
+    "license": "MIT",
+    "spm": {
+        "alias": {
+          "button": "alice/button/1.0.0/button.css",
+          "tipbox": "alice/tipbox/1.0.0/tipbox.css"
+        },
+        "output": ["example.css", "function.js"]
+    }
+}
